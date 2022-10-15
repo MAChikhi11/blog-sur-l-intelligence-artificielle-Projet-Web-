@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+a { text-decoration: none;}
+nav { 
+    padding: 20px;
+    padding-top: 10px;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+.logo { 
+    width: 50%;
+    display: inline-block;
+}
+.logo img{ 
+    width: 7%; 
+}
+.nav-list { 
+    width: 50%;
+    float: right; 
+    padding-top: 3px;
+    line-height: 1.8;
+}
+
+.list-item {
+    display: inline-block;
+}
+
+.list-item a { 
+    padding: 8px;
+    text-decoration: none;
+    color: rgb(88, 88, 88);
+    text-align: center;
+    font-size:  17px;
+   
+}
+
+.list-item a:hover{
+    color:blueviolet; 
+}

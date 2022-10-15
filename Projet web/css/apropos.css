@@ -1,0 +1,62 @@
+section{
+    width: 80%;
+    margin: auto;
+    margin-top: 130px;
+    height: 340px;
+}
+
+.text{
+    display: inline-block;
+    width: 56%;
+    float: left;
+}
+
+.text h1 {
+    font-size: 45px;
+    color: blueviolet;
+    margin-bottom: 45px;
+}
+.text p { font-size: 20px;
+    color: #5b5757; }
+.imgg{
+    display: inline-block;
+    width: 40%;
+    height: 80%;
+
+}
+
+.imgg img {
+    
+        max-width: 100%;
+        height: auto;
+      
+}
+
+.team h1{
+    font-size: 45px;
+    color: blueviolet;
+    text-align: center;
+    margin-bottom: 15px; 
+}
+
+.team p { 
+    text-align: center;
+    color: #6f6b6b;
+    font-size: 20px;
+}
+
+.cont-etud{
+    padding: 20px;
+    text-align: center;
+}
+
+.etud{
+    display: inline-block;
+    margin: 40px;
+    padding: 10px;
+    border: solid 3px blueviolet;
+    color: white;
+    background-color: blueviolet;
+}
+
+

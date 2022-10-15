@@ -1,0 +1,10 @@
+footer
+{
+    text-align: center;
+    padding: 20px;
+    color: rgb(122, 122, 122);
+    /* background-color: black; */
+    border-top: solid 1px #d3d0d0;
+    width: 80%;
+    margin: auto;
+}

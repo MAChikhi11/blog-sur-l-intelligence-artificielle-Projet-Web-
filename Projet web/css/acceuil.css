@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+section {
+    padding: 60px 30px 0 35px;
+    /* width: 80%; */
+    margin: auto;
+    text-align: center;
+    /* border: solid; */
+    height: 430px;
+}
+
+.container{ 
+    display: inline-block; 
+    width: 50%;
+    padding: 2px 4px 0px 4px;
+    text-align: left;
+}
+
+.container h6
+{ 
+    font-size: 17px;
+    font-weight: 500;
+    text-transform: capitalize;
+    color: #777777;
+    margin-bottom: 25px;
+}
+.container h2{ 
+    color: #111111;
+    line-height: 48.5px;
+    margin-bottom: 60px;
+    font-size: 40px;
+    font-weight: 800;
+}
+em { 
+    font-style: normal;
+    color: #dc8cdb;
+}
+
+button  { 
+    font-size: 14px;
+    background: rgb(228 141 222); 
+    padding: 12px 30px;
+    display: inline-block;
+    border-radius: 5px;
+    font-weight: 500;
+    text-transform: uppercase;
+    text-decoration: none;
+    border: none;
+}
+button:hover{
+    background: rgb(247, 105, 237); 
+
+}
+button a { 
+    color: #fff;
+}
+
+.main-img {
+    display: inline-block;
+    width: 30%;
+    float: right;
+    text-align: right;
+    background-image: url('../images/wlcm2.jpg');
+    height: 100%;
+    /* border: solid red; */
+    background-size: cover;
+    margin-right: 50px;
+} 
+.main-img2{
+    display: inline-block;
+    width: 32%;
+    float: left;
+    text-align: right;
+    height: 430px;
+    background-size: cover;
+    margin-right: 90px;
+    background-image: url("../images/wlcm3.jpg");
+    margin-left: 125px ;
+
+}
+
+.container2{ 
+    display: inline-block; 
+    width: 50%;
+    padding: 2px 4px 0px 4px;
+    padding-top: 75px;
+    text-align: left;
+}
+
+.container2 h2  {    font-size: 32px;}
+.scroll{
+    clear:both; 
+}
+
+.Main { 
+    padding-top: 120px;
+}
+
+.Main1 { 
+    padding-top: 120px; 
+}
+
+.tire{
+    width: 51px;
+    height: 13px;
+    border-bottom: solid 5px blueviolet;
+}
+.em2{
+    color: blueviolet;
+} 
+
+.description{
+    padding-top: 30px;
+    color: gray;
+}
+
+.Def{
+    padding-top: 180px; 
+}
+
+.Def h1{
+    display: inline-block;
+    font-size: 30px;
+}
+
+.Def button{
+    margin: auto;
+    display: block;
+    margin-top: 30px; 
+    background-color: rgb(169 128 248);
+}
+
+.Def button:hover{
+    background-color:rgb(123 111 227);;
+}
